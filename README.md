@@ -58,10 +58,15 @@ personalName, string patronymic)`. Конструктор принимает т�
 **Тестирование.**
 
 Корректный ввод (все три параметра — имя, фамилия, отчество):
+
 ![1.3 correct 1](Readme.assets/name_1_3_correct_1.png)
+
 Корректный ввод (без отчества):
+
 ![1.3 correct 2](Readme.assets/name_1_3_correct_2.png)
+
 Некорректный ввод (пустое значение — программа переспрашивает ввод):
+
 ![1.3 incorrect](Readme.assets/name_1_3_incorrect.png)
 
 ---
@@ -102,12 +107,19 @@ personalName, string patronymic)`. Конструктор принимает т�
 **Тестирование.**
 
 Корректный ввод (N = 5):
+
 ![house correct 1](Readme.assets/house_correct_1.png)
+
 Корректный ввод (N = 1 — другая форма слова):
+
 ![house correct 2](Readme.assets/house_correct_2.png)
+
 Корректный ввод (N = 23):
+
 ![house correct 3](Readme.assets/house_correct_3.png)
+
 Некорректный ввод (не число и отрицательное число — программа переспрашивает):
+
 ![house incorrect](Readme.assets/house_incorrect.png)
 
 ---
@@ -167,11 +179,16 @@ personalName, string patronymic)`. Конструктор принимает т�
 **Тестирование.**
 
 Корректный ввод (отдел ИТ, начальник — сотрудник 2):
+
 ![2.4 correct 1](Readme.assets/dept_2_4_correct_1.png)
+
 Корректный ввод (отдел Sales, начальник — сотрудник 1):
+
 ![2.4 correct 2](Readme.assets/dept_2_4_correct_2.png)
+
 Некорректный ввод (пустые значения и неверный номер начальника — программа
 переспрашивает):
+
 ![2.4 incorrect](Readme.assets/dept_2_4_incorrect.png)
 
 ---
@@ -214,11 +231,16 @@ personalName, string patronymic)`. Конструктор принимает т�
 **Тестирование.**
 
 Корректный ввод (список сотрудников отдела ИТ):
+
 ![3.4 correct 1](Readme.assets/dept_3_4_correct_1.png)
+
 Корректный ввод (другой отдел):
+
 ![3.4 correct 2](Readme.assets/dept_3_4_correct_2.png)
+
 Некорректный ввод (пустые значения и неверный номер начальника — программа
 переспрашивает):
+
 ![3.4 incorrect](Readme.assets/dept_3_4_incorrect.png)
 
 ---
@@ -259,12 +281,19 @@ personalName, string patronymic)`. Конструктор принимает т�
 **Тестирование.**
 
 Корректный ввод (все три параметра):
+
 ![4.5 correct 1](Readme.assets/name_4_5_correct_1.png)
+
 Корректный ввод (имя и фамилия, без отчества):
+
 ![4.5 correct 2](Readme.assets/name_4_5_correct_2.png)
+
 Корректный ввод (только имя):
+
 ![4.5 correct 3](Readme.assets/name_4_5_correct_3.png)
+
 Некорректный ввод (пустое имя — программа переспрашивает):
+
 ![4.5 incorrect](Readme.assets/name_4_5_incorrect.png)
 
 ---
@@ -332,12 +361,19 @@ other`), второй — целое число (`int other`).
 **Тестирование.**
 
 Корректный ввод (дроби 1/3 и 2/3):
+
 ![fraction correct 1](Readme.assets/fraction_correct_1.png)
+
 Корректный ввод (дроби 1/2 и 1/4):
+
 ![fraction correct 2](Readme.assets/fraction_correct_2.png)
+
 Некорректный ввод (знаменатель равен нулю — программа переспрашивает):
+
 ![fraction incorrect 1](Readme.assets/fraction_incorrect_1.png)
+
 Некорректный ввод (не число — программа переспрашивает):
+
 ![fraction incorrect 2](Readme.assets/fraction_incorrect_2.png)
 
 ---
